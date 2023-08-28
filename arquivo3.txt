@@ -1,0 +1,2 @@
+Terceiro e último commit
+Detalhe que este arquivo, commit e a branch "exercicio_git" foram criados via site, já que estou tendo erros fazendo pelo Power shell, Git bash ou própio Terminal
